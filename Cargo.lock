@@ -3,8 +3,8 @@
 version = 4
 
 [[package]]
-name = "log-execution-time"
-version = "0.1.0"
+name = "log_execution_time"
+version = "0.1.1"
 dependencies = [
  "quote",
  "syn",

@@ -1,6 +1,6 @@
 [package]
-name = "log-execution-time"
-version = "0.1.0"
+name = "log_execution_time"
+version = "0.1.1"
 edition = "2021"
 authors = ["Satish Babariya <satish.babariya@gmail.com>"]
 description = "A Rust procedural macro to log the execution time of functions."
