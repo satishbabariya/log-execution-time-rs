@@ -3,6 +3,10 @@ name = "log-execution-time"
 version = "0.1.0"
 edition = "2021"
 authors = ["Satish Babariya <satish.babariya@gmail.com>"]
+description = "A Rust procedural macro to log the execution time of functions."
+documentation = "https://docs.rs/log_execution_time"
+homepage = "https://github.com/satishbabariya/log-execution-time-rs"
+repository = "https://github.com/satishbabariya/log-execution-time-rs"
 license = "MIT"
 
 [dependencies]
