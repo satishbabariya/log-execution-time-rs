@@ -1,7 +1,9 @@
 [package]
-name = "log-execution-time-rs"
+name = "log-execution-time"
 version = "0.1.0"
 edition = "2021"
+authors = ["Satish Babariya <satish.babariya@gmail.com>"]
+license = "MIT"
 
 [dependencies]
 quote = "1.0.38"
